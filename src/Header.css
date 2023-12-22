@@ -1,0 +1,54 @@
+.rht-head ul li{
+    list-style: none;
+    padding: 20px 10px 0px;
+}
+.mainheader{
+    position: sticky;
+    top: 0px;
+    padding: 5px 0px 10px;
+    background-color: white;
+    
+}
+.mainheader .navbar{
+    box-shadow: none;
+    background-color: white;
+}
+
+.ddd{
+    display: flex;
+    justify-content: space-between;
+}
+.me-auto{
+    background-color: white;
+}
+.mainheader li a{
+    color: red;
+}
+.mainheader li a:hover{
+    color: #FFA15C ;
+}
+.mainheader i:hover{
+    color: #FFA15C ;
+    cursor: pointer;
+}
+.r-head input{
+    margin-right: 15px;
+}
+.r-head{
+    margin-right: 30px;
+}
+.fa-cart-shopping{
+    margin-top: 7px;
+}
+.fa-magnifying-glass{
+    margin-top: 7px;
+}
+.fa-cart-shopping{
+    color: black;
+}
+
+@media(max-width:992px){
+    .mainheader{
+        position: static;
+    }
+}

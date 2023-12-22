@@ -1,0 +1,58 @@
+.shoping img{
+    width: 100%;
+    text-align: center;
+}
+.shoping p{
+    font-size: 20px;
+}
+.shoping h4{
+    color: #FFA15C;
+}
+.shop h1{
+    text-align: center;
+    margin-bottom: 70px;
+    font-weight: 700;
+}
+.men-women{
+    justify-content: center;
+    padding-bottom: 20px;
+}
+.men-women a{
+        display: inline-block;
+        text-decoration: none;
+        color: gray;
+        padding: 0px 20px;
+        padding-bottom: 20px;
+
+}
+.shoping-heading{
+    justify-content: center;
+}
+.shoping-heading ul li{
+    display: inline-block;
+    text-decoration: none;
+    color: gray;
+    padding: 5px 10px;
+    margin: 0px 10px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+.shoping-heading ul li:active{
+    background: silver;
+    border: 0px solid transparent;
+    border-radius: 5px;
+}
+.shopcart button{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    display: inline-block;
+    padding: 0px 10px;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: 50px;
+}
+.shopcart h4{
+    padding-left: 10px;
+}

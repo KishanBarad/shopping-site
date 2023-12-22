@@ -1,0 +1,56 @@
+.mainfotter{
+    margin-top: 60px;
+}
+.d-flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.f-menu ul{
+    margin-right: 60px;
+}
+.f-menu ul li{
+    list-style: none;
+    padding-bottom: 10px;
+}
+.f-menu ul li a{
+    color: #616161;
+    text-decoration: none;
+}
+.f-menu ul li a:hover{
+     color: #FFA15C ;
+}
+.f-menu h4{
+    color: black;
+    font-size: 20px;
+    font-weight: 700;
+    padding-bottom: 20px;
+}
+.r-fotter input{
+    padding: 5px 80px 5px 0px;
+}
+.r-fotter h4{
+        color: black;
+        font-size: 20px;
+        font-weight: 700;
+        margin-bottom: 20px;
+}
+.e-mail-id{
+    margin-bottom: 60px;
+}
+.c-m{
+    margin-bottom: 30px;
+}
+.c-m p{
+    padding: 0px 0px 0px 10px;
+    margin-top: 5px;
+    line-height: 0px;
+    color: #616161;
+}
+.fa-phone{
+    color: #616161;
+    font-size: 20px;
+}
+.fa-square-envelope{
+    color: #616161;
+    font-size: 22px;
+}
